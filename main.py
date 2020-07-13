@@ -10,4 +10,4 @@ while roll_again == "yes" or roll_again == "y":
     print("The values are....")
     print(str(Dice1), str(Dice2))
     print("Total value: " + str(Dice))
-    roll_again = (input("Roll the dices again?"))
+    roll_again = (input("Roll the dices again? (y/n)"))
